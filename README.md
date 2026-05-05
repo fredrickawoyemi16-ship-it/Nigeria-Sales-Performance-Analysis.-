@@ -2,7 +2,7 @@
 Power BI analysis of 250k+ sales records focusing on regional drivers and customer retention in Nigeria. 
 
 
- Project Overview
+ ## Project Overview
 
 Businesses often struggle to identify high-performing regions, understand customer purchasing behavior, and track sales team effectiveness across large datasets.
 
